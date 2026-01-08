@@ -3,4 +3,7 @@ secret.env
 .DS_Store
 node_modules/
 *.log
+publish-hashes.json
+README.md
+history/
 
